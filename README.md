@@ -1,2 +1,2 @@
 # Webpage
-Webpage for geojson
+Webpage for maps project
